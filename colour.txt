@@ -1,3 +1,8 @@
-Green
-Red
 Black
+Red
+Yellow
+Green
+Til
+Blue
+White
+Brown
