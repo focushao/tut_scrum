@@ -1,5 +1,3 @@
-# tut_scrum
-this is repo for scrum demonstrations
    # Scrum Flow Overview
 
 ## 1. Tickets and Story Points
@@ -45,7 +43,4 @@ this is repo for scrum demonstrations
 
 ## 5. AOB (Any Other Business)
 - Sprint ceremonies (Planning, Daily Stand-up, Review, Retrospective)
-- Technical debt discussion
-- Process improvements
-- Team announcements
-- Dependencies and blockers
+- Access on Jira board
