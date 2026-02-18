@@ -6,3 +6,5 @@ Til
 Blue
 White
 Brown
+Pink
+Gray
