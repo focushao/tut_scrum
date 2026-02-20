@@ -6,4 +6,6 @@ Til
 Blue
 White
 Brown
+Pink
+Grey
 Silver and Gold
